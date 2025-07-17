@@ -1,5 +1,5 @@
 # 🔍 Khoj AI – Smart Course Search using Embeddings 
-(Preview here) [![Live Demo](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface&style=for-the-badge)](https://huggingface.co/spaces/kshitijsharma19/Khoj-AI)
+[![Live Demo](https://img.shields.io/badge/HuggingFace-Demo-blue?logo=huggingface&style=for-the-badge)](https://huggingface.co/spaces/kshitijsharma19/Khoj-AI)
 
 
 **Khoj AI** helps you search the most relevant free courses from Analytics Vidhya using powerful sentence embeddings and a modern Streamlit interface.
