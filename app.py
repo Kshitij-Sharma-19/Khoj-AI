@@ -1,6 +1,11 @@
 import streamlit as st
 import pandas as pd
+import subprocess
+
 from sentence_transformers import SentenceTransformer, util
+
+# Automatically update course data before running the app
+subprocess.run(["python", "generate_course_data.py"])
 
 # Load course data
 df = pd.read_csv("courses_data.csv")
