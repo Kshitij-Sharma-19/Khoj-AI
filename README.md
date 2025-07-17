@@ -20,3 +20,7 @@ Install all dependencies:
 
 ```bash
 pip install -r requirements.txt
+```
+##Hugging Face Preview:
+<img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/4d7265a7-aad8-466d-86cd-b504d3becb19" />
+
